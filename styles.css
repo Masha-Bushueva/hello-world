@@ -162,6 +162,7 @@ ul{
 #footer{
     margin-top: 30px;
     border-top: 10px dotted rosybrown;
+    border-top-width: 100%;
     border shadow: 4px 4px 4px brown;
     padding: 40px;
 }
